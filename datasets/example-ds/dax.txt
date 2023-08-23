@@ -1,0 +1,3 @@
+### Columns
+# Test1
+Test = IF(Query1[Col1] = "", "Yes", "No")
